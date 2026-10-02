@@ -20,18 +20,10 @@ The script allows you to encrypt arbitrary text using a secret key, outputs the 
 
 To run this script, you need **Python 3.x**. No external libraries or third-party dependencies are required.
 
+
 ---
 
 ## 💻 Usage
-
-1. Clone this repository or copy the code into a local Python file (e.g., `des_crypto.py`).
-2. Run the script via your terminal:
-
-```bash
-python des_crypto.py
-```
-
-3. Enter the plaintext and your secret key when prompted.
 
 ### Example Run
 
