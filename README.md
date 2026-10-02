@@ -4,6 +4,10 @@ A lightweight, dependency-free implementation of the **DES (Data Encryption Stan
 
 This project demonstrates the core mechanics of symmetric key cryptography, working directly with 64-bit blocks, bitwise operations, permutations, and Feistel function rounds.
 
+## 📜 What is DES
+**The Data Encryption Standard (DES)** is a symmetric-key algorithm for the encryption of digital data. 
+Although its short key length of 56 bits makes it too insecure for modern applications, it has been highly influential in the advancement of cryptography.
+
 ## 🚀 Features
 
 * **Pure Python:** Zero external dependencies (no `pip install` required).
